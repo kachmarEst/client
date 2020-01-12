@@ -1,0 +1,9 @@
+#dec{
+    color: #F29727 !important;
+    border: 1px solid #F29727;
+}
+#dec:hover{
+    color: white !important;
+    font-weight: bold;
+    background-color: #F29727 !important;
+}

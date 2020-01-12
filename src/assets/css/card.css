@@ -1,0 +1,19 @@
+.card{
+    border: 1px solid #F29727 ;
+    margin: 20px ;
+}
+
+.card-header{
+    background-color: #fff;
+    font-weight: bold !important;
+    color: #353a40;
+}
+
+.btn{
+    border: 1px solid #F29727 !important ;
+}
+.btn:hover{
+    border: none !important;
+    color: white !important;
+    background-color: #F29727 !important ;
+}
